@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 5067,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2018-01-31T12:10:20-01:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 9089,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2019-07-21T08:40:22-02:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 7642,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2020-04-05T04:30:07-02:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 5753,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2017-10-27T01:59:05-02:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 9052,
+    "departureAirportIATACode": "YYT",
+    "arrivalAirportIATACode": "LEW",
+    "departureDate": "2018-05-24T07:12:57-02:00"
+  }
+]
